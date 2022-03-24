@@ -1,9 +1,4 @@
-# ABLeS
-
-# How to contribute
-
-
-# How to contribute (GitHub users)
+# ABLeS repository
 
 
 # Acknowledgements
