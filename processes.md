@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ABleS Processes
+title: ABLeS processes
 nav_order: 2
 ---
 

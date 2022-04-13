@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Communities Projects
+title: Community projects
 nav_order: 4
 ---
 

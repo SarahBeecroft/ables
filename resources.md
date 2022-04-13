@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Available Resources
+title: Available resources
 nav_order: 3
 ---
 
