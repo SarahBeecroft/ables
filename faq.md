@@ -12,13 +12,14 @@ The cost of running jobs on GADI is measured by service units (SU). The number o
 1. The amount of walltime used by the job. 
 2. The resources reserved for the job.
 
-More details on job Debiting can be found [here](https://opus.nci.org.au/display/Help/2.+Compute+Grant+and+Job+Debiting)
+More details on job debiting can be found [here](https://opus.nci.org.au/display/Help/2.+Compute+Grant+and+Job+Debiting)
 
 ## What happens to service units (SUs) that aren’t consumed in a given quarter?
 
 The allocation of SUs is on a quarterly basis. At the beginning of each quarter, Biocommons will allocate 100 kSU of computational resources to each community. Additional resources will be allocated according to the quarterly plan proposed by the community, as well as the resources still available in that quarter. 
 
 Communities should utilise the allocated SUs:
+
 1. For projects approved by the steering committee. 
 2. Using the tools, methods and/or workflows that are suited to their community requirements.
 3. While making sure to consider that the allocation is a shared resource for their community (if in doubt, consult with your community bioinformatics lead, or the BioCommons)
@@ -30,13 +31,14 @@ Unused SUs can NOT be rolled-over to the next quarter. As ABLeS is a shared reso
 The Australian BioCommons has a GoogleForm available that allows you to submit the quarterly plan for your community.
 
 You can also submit the following using the same GoogleForm: 
-Additional resource request (beyond the quarterly plan allocation)
-General feedback
-Installation request for the `Australian BioCommons Tools and Workflows project`, also known as project allocation `if89`
+
+- Additional resource request (beyond the quarterly plan allocation)
+- General feedback
+- Installation request for the `Australian BioCommons Tools and Workflows project`, also known as project allocation `if89`
 
 ## How can I see what software and workflows are available at NCI?
 
-Please see [this page](resources.html) for more information on the software and workflows available at NCI. 
+Please see [this page](resources.html) for more information on the software and workflows available at the NCI. 
 
 ## Where can I go for help or to ask further questions?
 

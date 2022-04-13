@@ -10,11 +10,12 @@ nav_order: 3
 
 ABLeS encompasses 16 million service units (SUs) of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs. 
 
-Details on GADI’s resources are available at https://nci.org.au/our-systems/hpc-systems. 
+- Details on GADI resources are available at https://nci.org.au/our-systems/hpc-systems. 
+- Details on the GADI storage system are available [here](https://nci.org.au/our-systems/storage-systems).
 
-Details on the GADI’s storage system are available [here](https://nci.org.au/our-systems/storage-systems).
+ABLes computational resources are allocated to each community according to the quarterly plan submitted by the bioinformatics lead of the community. 
 
-ABLes computational resources are allocated to each community according to the quarterly plan submitted by the bioinformatics lead of the community. Additional resources can be requested through the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)
+> **Note:** Additional resources can be requested through the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)
 
 ## Centrally supported tools and software through NCI (`/apps`)
 
@@ -22,36 +23,60 @@ Details about software available through NCI are available [here ](https://opus.
 
 ## Shared repository of tools and software
 
-ABLeS communities have access to the `Australian BioCommons Tools and Workflows project`, in project allocation `if89`. which is a repository of popular tools and workflows that can be utilised directly by communities members without any need to install them or maintain them. A list of these tools and workflows is available below:
+ABLeS communities have access to the `Australian BioCommons Tools and Workflows project`, in project allocation `if89`.
+This is a repository of popular tools, containers and workflows that can be used by 
+anyone in the NCI user community.
+Anyone from an NCI community can contribute to `if89` and add more tools that will be shared with others.
 
-| **Too and Version**              | **Too and Version**               |
-|----------------------------------|-----------------------------------|
-| rtg-tools Version: 3.12.1        | MMseqs2, Versions: 13-45111       |
-| Augustus, Versions: 3.4.0        | perllib, Versions: v5.26.3        |
-| bamtools, Versions: 2.5.2        | Prodigal, Versions: 2.6.3         |
-| biopython, Versions: 1.79        | pythonlib, Versions: 3.9.2        |
-| bwakit, Versions: 0.7.11         | racon, Versions: 1.4.3            |
-| cellranger, Versions: 6.1.2      | RECON, Versions: 1.08             |
-| cutadapt, Versions: 3.7          | RepeatMasker, Versions: 4.1.2-p1  |
-| cuteSV, Versions: 1.0.13         | RepeatModeler, Versions: 2.0.3    |
-| exonerate, Versions: 2.2.0       | RepeatScout, Versions: 1.0.6      |
-| Flye, Versions: 2.9              | Rlib Versions: 4.0.0 and 4.1.0    |
-| GeMoMa, Versions: 1.8            | rmblast, Versions: 2.11.0         |
-| HiFiAdapterFilt, Versions: 2.0.0 | sepp, Versions: 4.5.1             |
-| hifiasm, Versions: 0.16.1        | seqkit, Versions: 2.2.0           |
-| hmmer, Versions: 3.3.2           | slow5-guppy, Versions: 6.0.1      |
-| jasminesv, Versions: 1.1.4       | slow5tools, Versions: 0.3.0       |
-| kentutils, Versions: 0.0         | SNAP, Versions: 2006              |
-| lastz, Versions: 1.04.15         | sniffles, Versions: 2.0.2         |
-| longshot, Versions: 0.4.1        | sqlite, Versions: 3.36            |
-| lpsolve, Versions: 5.5.2.11      | STAR, Versions: 2.7.10a           |
-| maker, Versions: 3.01.04         | subread, Versions: 2.0.3          |
-| mcl, Versions: 14-137            | SuiteSparse, Versions: 5.10.1     |
-|  metaeuk, Versions: 5-34c21f2    | TRF, Versions: 4.09.1             |
+A list of these tools and workflows is available below (2022-04-13):
 
+| **Tool**              | **Version**               |
+|----------------------------------|:-----------------------------------:|
+| rtg-tools | 3.12.1 |        
+| Augustus | 3.4.0  |
+| bamtools | 2.5.2  |
+| biopython |1.79|
+| bwakit   |0.7.11|
+| cellranger  |6.1.2|
+| cutadapt |3.7|
+| cuteSV |1.0.13|
+| exonerate |2.2.0|
+| Flye |2.9|
+| GeMoMa |1.8|
+| HiFiAdapterFilt |2.0.0|
+| hifiasm  |0.16.1|
+| hmmer  |3.3.2|
+| jasminesv  |1.1.4|
+| kentutils  |0.0|
+| lastz  |1.04.15|
+| longshot  |0.4.1|
+| lpsolve  |5.5.2.11|
+| maker  |3.01.04|
+| mcl  |14-137|
+| metaeuk  |5-34c21f2|
+| MMseqs2  |13-45111|
+| perllib  |v5.26.3|
+| Prodigal  |2.6.3|
+| pythonlib  |3.9.2|
+| racon  |1.4.3|
+| RECON |1.08 |
+| RepeatMasker |4.1.2-p1 |
+| RepeatModeler  |2.0.3|
+| RepeatScout |1.0.6|
+| Rlib  |4.0.0 </br> 4.1.0|
+| rmblast  |2.11.0|
+| sepp  |4.5.1|
+| seqkit  |2.2.0|
+| slow5-guppy  |6.0.1| 
+| slow5tools  |0.3.0|
+| SNAP  |2006|
+| sniffles  |2.0.2|
+| sqlite  |3.36|
+| STAR  |2.7.10a|
+| subread  |2.0.3|
+| SuiteSparse  |5.10.1| 
+| TRF  |4.09.1|
 
-
-As a member of any ABLeS community, you get access to this shared repository. Communities can contribute to this shared repository and add more tools that will be shared with others.
 
 
 
