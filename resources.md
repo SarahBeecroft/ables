@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Available resources
-nav_order: 3
 ---
 
 # Resources available for ABLeS communities

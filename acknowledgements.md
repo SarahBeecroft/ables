@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Acknowledgements and Authorship
-nav_order: 5
 ---
 
 # Citing and acknowledging ABLeS

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Community projects
-nav_order: 4
 ---
 
 # Communities involved in ABLeS projects

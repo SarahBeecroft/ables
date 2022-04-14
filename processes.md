@@ -1,7 +1,5 @@
 ---
-layout: default
 title: ABLeS processes
-nav_order: 2
 ---
 
 # Setting up an ABLeS community

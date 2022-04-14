@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Help and Contact Details
-nav_order: 6
 ---
 
 | **Type of problem / challenge / issue**                                                      | **Contact details**                                                                   |

@@ -1,0 +1,16 @@
+# see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+subitems:
+  - title: Home
+    url: /index
+  - title: ABLeS processes
+    url: /processes
+  - title: Available resources
+    url: /resources
+  - title: Community projects
+    url: /communities
+  - title: Acknowledgements and authorship
+    url: /acknowledgements
+  - title: Help and contact details
+    url: /contact-us
+  - title: FAQ
+    url: /faq
