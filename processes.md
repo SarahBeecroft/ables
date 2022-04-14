@@ -8,9 +8,9 @@ nav_order: 2
 
 The Australian BioCommons and the bioinformatics leads for each community have different roles in initiation, onboarding and reporting for ABLeS. 
 
-ABLeS projects are led and maintained by their communities with the support of the ABLeS team to facilitate the access to ABLeS resources. 
+ABLeS projects are led and maintained by their [communities](communities.md) with the support of the ABLeS team to facilitate the access to ABLeS resources. 
 
-If you are new to ABLeS program, please follow the diagram below in order to start using ABLeS resources or contact us for more information and assistance. 
+If you are new to ABLeS program, please follow the diagram below in order to start using ABLeS resources or **[contact us](contact-us.md)** for more information and assistance. 
 
 <img src="images/ables-workflow.png" alt="ABLeS guide workflow" width="400" style="display: block; margin-left: auto; margin-right: auto;"/>
 
@@ -25,7 +25,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 
 
 
-# Responsibilities and deadlines for the next four quarters 2022-2023
+# ABLeS milestones for 2022-2023
 
 ## Quarter 3, July, August, and September 2022
 

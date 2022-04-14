@@ -6,12 +6,21 @@ nav_order: 3
 
 # Resources available for ABLeS communities
 
+[Computational resources](#computational-resources){: .btn .btn-blue }
+
+[Centrally supported tools](#centrally-supported-tools-and-software-through-nci-apps){: .btn .btn-blue }
+
+[Shared tool and workflow repository](#shared-repository-of-tools-and-software){: .btn .btn-blue }
+
+[Specialist expertise & support](#specialist-expertise){: .btn .btn-blue }
+
 ## Computational resources
 
 ABLeS encompasses 16 million service units (SUs) of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs. 
 
-- Details on GADI resources are available at https://nci.org.au/our-systems/hpc-systems. 
-- Details on the GADI storage system are available [here](https://nci.org.au/our-systems/storage-systems).
+Details on:
+- [Gadi resources available](https://nci.org.au/our-systems/hpc-systems) 
+- [Gadi storage system](https://nci.org.au/our-systems/storage-systems).
 
 ABLes computational resources are allocated to each community according to the quarterly plan submitted by the bioinformatics lead of the community. 
 

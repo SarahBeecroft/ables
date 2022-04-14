@@ -4,8 +4,6 @@ title: Help and Contact Details
 nav_order: 6
 ---
 
-# Please use the following contact details:
-
 | **Type of problem / challenge / issue**                                                      | **Contact details**                                                                   |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Compute system issues at the NCI                                                             | Email:  <br/> <ziad@biocommons.org.au> <br/> <help@nci.org.au>          |

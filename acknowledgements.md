@@ -4,7 +4,7 @@ title: Acknowledgements and Authorship
 nav_order: 5
 ---
 
-# ABLeS acknowledgement statement
+# Citing and acknowledging ABLeS
 
 The ABLeS program should be both cited and acknowledged in any publication, presentation or grant application. 
 
@@ -14,7 +14,7 @@ The ABLeS program should be both cited and acknowledged in any publication, pres
 2. Use the following acknowledgement statement:
 >"The authors acknowledge the provision of computing and data resources provided by the Australian BioCommons Leadership Share (ABLeS) program. This program is co-funded by NCRIS, the National Computational Infrastructure and Pawsey Supercomputing Centre.”
 
-# ABLeS co-author policy
+# ABLeS co-authorship policy
 
 In some cases, it may be appropriate for ABLeS support staff, or specialists at the NCI or Pawsey to be co-authors on publications. Examples of this include when these specialists provide significant input into the publication, including a significant contribution to method / protocol / pipeline development, study design, data and results analysis, or interpretation.
 

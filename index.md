@@ -8,6 +8,8 @@ nav_order: 1
 
 [ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link){: .btn .btn-blue }
 
+[Available ABLeS software](resources.md){: .btn .btn-blue }
+
 # The Australian BioCommons Leadership Share (ABLeS)
 
 ABLeS is an Australian Biocommons program that aims to grow and simultaneously accelerate 
