@@ -14,3 +14,5 @@ subitems:
     url: /contact-us
   - title: FAQ
     url: /faq
+  - title: Contributors
+    url: /contributors
