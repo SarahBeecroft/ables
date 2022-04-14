@@ -4,9 +4,8 @@ title: Home
 
 # Quick access links
 
-[ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link){: .btn .btn-blue }
-
-[Available ABLeS software](resources.md){: .btn .btn-blue }
+- **[ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)**
+- **[Available ABLeS software](resources.md)**
 
 # The Australian BioCommons Leadership Share (ABLeS)
 
