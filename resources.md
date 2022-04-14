@@ -19,16 +19,21 @@ nav_order: 3
 ABLeS encompasses 16 million service units (SUs) of compute capacity and 500 TB of storage available per annum on the [Gadi supercomputer at the NCI](https://nci.org.au/our-systems/hpc-systems). These SUs can be utilised to run jobs on different nodes of GADI that are equipped with either CPUs or GPUs. 
 
 Details on:
-- [Gadi resources available](https://nci.org.au/our-systems/hpc-systems) 
+- [Gadi HPC resources](https://nci.org.au/our-systems/hpc-systems) 
 - [Gadi storage system](https://nci.org.au/our-systems/storage-systems).
 
 ABLes computational resources are allocated to each community according to the quarterly plan submitted by the bioinformatics lead of the community. 
 
 > **Note:** Additional resources can be requested through the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)
 
+## Specialist expertise
+
+ABLeS communities are supported by the NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
+If you are part of an ABLeS community, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)**.
+
 ## Centrally supported tools and software through NCI (`/apps`)
 
-Details about software available through NCI are available [here ](https://opus.nci.org.au/display/Help/5.+Software+Applications)
+Details about software available through the NCI are available [here ](https://opus.nci.org.au/display/Help/5.+Software+Applications)
 
 ## Shared repository of tools and software
 
@@ -89,5 +94,3 @@ A list of these tools and workflows is available below (2022-04-13):
 
 
 
-# Specialist expertise
-ABLeS’s communities are supported by NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects. 
