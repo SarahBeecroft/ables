@@ -1,7 +1,7 @@
 # see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
 title: ABLeS
 description: ABLeS
-remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@1.1.2
+remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@custom-main-logo
 permalink: pretty
 
 theme_variables:
