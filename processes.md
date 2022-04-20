@@ -10,7 +10,7 @@ ABLeS projects are led and maintained by their [communities](communities.md) wit
 
 If you are new to ABLeS program, please follow the diagram below in order to start using ABLeS resources or **[contact us](contact-us.md)** for more information and assistance. 
 
-![ABLeS guide workflow](images/ables-workflow.png){: height="200px" width="200px"}
+![ABLeS guide workflow](images/ables-workflow.png){: height="500px" width="500px"}
 
 ### Below are more detailed responsibilities. 
 
