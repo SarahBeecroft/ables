@@ -1,5 +1,6 @@
 # see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
 title: ABLeS
+topnav_title: ABLeS
 description: ABLeS
 remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@custom-main-logo
 permalink: pretty
@@ -7,6 +8,10 @@ permalink: pretty
 theme_variables:
   # biocommons blue
   theme_color: 205a86
+  back_to_top: true
+  topnav:
+    brand_logo: assets/img/main_logo.png
+    github: true
 
 defaults:
   -
