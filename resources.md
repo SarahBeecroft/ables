@@ -1,16 +1,6 @@
 ---
-title: Available resources
+title: Resources available for ABLeS communities
 ---
-
-# Resources available for ABLeS communities
-
-[Computational resources](#computational-resources){: .btn .btn-blue }
-
-[Centrally supported tools](#centrally-supported-tools-and-software-through-nci-apps){: .btn .btn-blue }
-
-[Shared tool and workflow repository](#shared-repository-of-tools-and-software){: .btn .btn-blue }
-
-[Specialist expertise & support](#specialist-expertise){: .btn .btn-blue }
 
 ## Computational resources
 

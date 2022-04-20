@@ -1,8 +1,6 @@
 ---
-title: Community projects
+title: Communities involved in ABLeS projects
 ---
-
-# Communities involved in ABLeS projects
 
 | **Community** |                                                       **Websites**                                                       |
 |--------------|---------------------------------------------------------------------------------------------------------------------|

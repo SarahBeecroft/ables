@@ -2,7 +2,7 @@
 title: ABLeS processes
 ---
 
-# Setting up an ABLeS community
+## Setting up an ABLeS community
 
 The Australian BioCommons and the bioinformatics leads for each community have different roles in initiation, onboarding and reporting for ABLeS. 
 
@@ -10,9 +10,9 @@ ABLeS projects are led and maintained by their [communities](communities.md) wit
 
 If you are new to ABLeS program, please follow the diagram below in order to start using ABLeS resources or **[contact us](contact-us.md)** for more information and assistance. 
 
-<img src="/images/ables-workflow.png" alt="ABLeS guide workflow" width="400" style="display: block; margin-left: auto; margin-right: auto;"/>
+![ABLeS guide workflow](images/ables-workflow.png){: height="200px" width="200px"}
 
-## Below are more detailed responsibilities. 
+### Below are more detailed responsibilities. 
 
 |                  **Type of user** |                                                                                                                                                                                                                                                                                                        **ABLeS program set up**                                                                                                                                                                                                                                                                                                       | **During ABLeS project**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,9 +23,9 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 
 
 
-# ABLeS milestones for 2022-2023
+## ABLeS milestones for 2022-2023
 
-## Quarter 3, July, August, and September 2022
+### Quarter 3, July, August, and September 2022
 
 | **Activity**                                                                                                                            |           **Date**           |
 |-----------------------------------------------------------------------------------------------------------------------------------------|:----------------------------:|
@@ -35,7 +35,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 | ABLeS team provides feedback on plans.                                                                                                  |  *7<sup>th</sup> July 2022*  |
 
 
-## Quarter 4, October, November, and December 2022
+### Quarter 4, October, November, and December 2022
 
 | **Activity**                                                                                                                            |             **Date**              |
 |-----------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------:|
@@ -44,7 +44,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 | Deadline for submitting quarterly plans by community bioinformatics lead(s).  <br/>100 KSUs will be added to each active ABLeS project. |       *29<sup>th</sup> September 2022*       |
 | ABLeS team provides feedback on plans.                                                                                                  |        *6<sup>th</sup> October 2022*         |
 
-## Quarter 1, January, February, and March 2023
+### Quarter 1, January, February, and March 2023
 
 | **Activity**                                                                                                                            |            **Date**            |
 |-----------------------------------------------------------------------------------------------------------------------------------------|:------------------------------:|
@@ -53,7 +53,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 | Deadline for submitting quarterly plans by community bioinformatics lead(s).  <br/>100 KSUs will be added to each active ABLeS project. |      *15<sup>th</sup> December2022*       |
 | ABLeS team provides feedback on plans.                                                                                                  |       *7<sup>th</sup> January 2023*       |
 
-## Quarter 2, April, May and June 2023
+### Quarter 2, April, May and June 2023
 
 
 | **Activity**                                                                                                                            |           **Date**           |

@@ -2,12 +2,12 @@
 title: The Australian BioCommons Leadership Share (ABLeS)
 ---
 
-# Quick access links
+## Quick access links
 
 - **[ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)**
 - **[Available ABLeS software](resources.md)**
 
-# About ABLeS
+## About ABLeS
 
 ABLeS is an Australian Biocommons program that aims to grow and simultaneously accelerate 
 the capacity of life science communities  to construct, maintain and gain insights from 
