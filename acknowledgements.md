@@ -11,7 +11,7 @@ The ABLeS program should be both cited and acknowledged in any publication, pres
 > Manos, Steven, Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, & Francis, Rhys. (2022). *Building community data assets for life sciences through ABLeS - the Australian BioCommons Leadership Share (1.0).* Zenodo. [https://doi.org/10.5281/zenodo.6342352](https://doi.org/10.5281/zenodo.6342352)
 
 2. Use the following acknowledgement statement:
->"The authors acknowledge the provision of computing and data resources provided by the Australian BioCommons Leadership Share (ABLeS) program. This program is co-funded by NCRIS, the National Computational Infrastructure and Pawsey Supercomputing Centre.”
+>"The authors acknowledge the provision of computing and data resources provided by the Australian BioCommons Leadership Share (ABLeS) program. This program is co-funded by Bioplatforms Australia, the National Computational Infrastructure and Pawsey Supercomputing Centre.”
 
 ## ABLeS co-authorship policy
 
