@@ -12,12 +12,12 @@ Details on:
 
 ABLes computational resources are allocated to each community according to the quarterly plan submitted by the bioinformatics lead of the community. 
 
-> **Note:** Additional resources can be requested through the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)
+> **Note:** Additional resources can be requested through the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)
 
 ## Specialist expertise
 
 ABLeS communities are supported by the NCI, Pawsey and ABLeS specialists to install, develop, optimise and deploy tools and workflows on ABLeS projects.
-If you are part of an ABLeS community, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)**.
+If you are part of an ABLeS community, and need help, please submit a request through the **[GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link)**.
 
 ## Centrally supported tools and software through NCI (`/apps`)
 
@@ -32,52 +32,52 @@ Anyone from an NCI community can contribute to `if89` and add more tools that wi
 
 A list of these tools and workflows is available below (2022-04-13):
 
-| **Tool**              | **Version**               |
-|----------------------------------|:-----------------------------------:|
-| rtg-tools | 3.12.1 |        
-| Augustus | 3.4.0  |
-| bamtools | 2.5.2  |
-| biopython |1.79|
-| bwakit   |0.7.11|
-| cellranger  |6.1.2|
-| cutadapt |3.7|
-| cuteSV |1.0.13|
-| exonerate |2.2.0|
-| Flye |2.9|
-| GeMoMa |1.8|
-| HiFiAdapterFilt |2.0.0|
-| hifiasm  |0.16.1|
-| hmmer  |3.3.2|
-| jasminesv  |1.1.4|
-| kentutils  |0.0|
-| lastz  |1.04.15|
-| longshot  |0.4.1|
-| lpsolve  |5.5.2.11|
-| maker  |3.01.04|
-| mcl  |14-137|
-| metaeuk  |5-34c21f2|
-| MMseqs2  |13-45111|
-| perllib  |v5.26.3|
-| Prodigal  |2.6.3|
-| pythonlib  |3.9.2|
-| racon  |1.4.3|
-| RECON |1.08 |
-| RepeatMasker |4.1.2-p1 |
-| RepeatModeler  |2.0.3|
-| RepeatScout |1.0.6|
-| Rlib  |4.0.0 </br> 4.1.0|
-| rmblast  |2.11.0|
-| sepp  |4.5.1|
-| seqkit  |2.2.0|
-| slow5-guppy  |6.0.1| 
-| slow5tools  |0.3.0|
-| SNAP  |2006|
-| sniffles  |2.0.2|
-| sqlite  |3.36|
-| STAR  |2.7.10a|
-| subread  |2.0.3|
-| SuiteSparse  |5.10.1| 
-| TRF  |4.09.1|
+| **Tool**              |    **Version**    |
+|----------------------------------|:-----------------:|
+| rtg-tools |      3.12.1       |        
+| Augustus |       3.4.0       |
+| bamtools |       2.5.2       |
+| biopython |       1.79        |
+| bwakit   |      0.7.11       |
+| cellranger  |       6.1.2       |
+| cutadapt |        3.7        |
+| cuteSV |      1.0.13       |
+| exonerate |       2.2.0       |
+| Flye |        2.9        |
+| GeMoMa |        1.8        |
+| HiFiAdapterFilt |       2.0.0       |
+| hifiasm  |      0.16.1       |
+| hmmer  |       3.3.2       |
+| jasminesv  |       1.1.4       |
+| kentutils  |        0.0        |
+| lastz  |      1.04.15      |
+| longshot  |       0.4.1       |
+| lpsolve  |     5.5.2.11      |
+| maker  |      3.01.04      |
+| mcl  |      14-137       |
+| metaeuk  |     5-34c21f2     |
+| MMseqs2  |     13-45111      |
+| perllib  |      v5.26.3      |
+| Prodigal  |       2.6.3       |
+| pythonlib  |       3.9.2       |
+| racon  |       1.4.3       |
+| RECON |       1.08        |
+| RepeatMasker |     4.1.2-p1      |
+| RepeatModeler  |       2.0.3       |
+| RepeatScout |       1.0.6       |
+| Rlib  | 4.0.0 <br/> 4.1.0 |
+| rmblast  |      2.11.0       |
+| sepp  |       4.5.1       |
+| seqkit  |       2.2.0       |
+| slow5-guppy  |       6.0.1       | 
+| slow5tools  |       0.3.0       |
+| SNAP  |       2006        |
+| sniffles  |       2.0.2       |
+| sqlite  |       3.36        |
+| STAR  |      2.7.10a      |
+| subread  |       2.0.3       |
+| SuiteSparse  |      5.10.1       | 
+| TRF  |      4.09.1       |
 
 
 
