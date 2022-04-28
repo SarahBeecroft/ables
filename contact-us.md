@@ -7,7 +7,7 @@ title: Help and Contact Details
 | Compute system issues at the NCI                                                             | Email:  <br/> <ziad@biocommons.org.au> <br/> <help@nci.org.au>          |
 |  Compute system issues at Pawsey                                                             | Email: <br/> <ziad@biocommons.org.au> <br/> <help@pawsey.org.au>        |
 | Questions about ABLeS program                                                                | Email: <br/> <ziad@biocommons.org.au> <br/>  <steven@biocommons.org.au> |
-| Requesting tool installations                                                                | Please use the [ABLeS GoogleForm](https://forms.gle/nwhB9Pp8m9fAn8gW9)                |
-| Reporting challenges with a specific bioinformatics workflow, or requesting assistance with this workflow | Please use the [ABLeS GoogleForm](https://forms.gle/nwhB9Pp8m9fAn8gW9)                |
+| Requesting tool installations                                                                | Please use the [ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLScpiyqERdxw6gMxjlq_CkiI3qvJ60YaeWHKTJChMjcnv8aBBA/viewform?usp=sf_link)                |
+| Reporting challenges with a specific bioinformatics workflow, or requesting assistance with this workflow | Please use the [ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link)                |
 | Any other issue.                                                                             | Email: <br/> <ziad@biocommons.org.au> <br/> <steven@biocommons.org.au>  |
 
