@@ -1,5 +1,6 @@
 ---
 title: Acknowledgements and Authorship
+toc: false
 ---
 
 ## Citing and acknowledging ABLeS

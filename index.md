@@ -1,11 +1,17 @@
 ---
 title: The Australian BioCommons Leadership Share (ABLeS)
+toc: false
 ---
 
 ## Quick access links
 
-- **[ABLeS GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSeaJdpQXbvXYfjwXFRPAmtc0FjJEcCwplM7kCWye1DFMtgx9g/viewform?usp=sf_link)**
-- **[Available ABLeS software](resources.md)**
+[Request New Project](https://docs.google.com/forms/d/e/1FAIpQLSf9UVEuhbAsbvVzTEvvE9mLoietryb7e3sDmv74Xhl-1YWj2Q/viewform?usp=sf_link){: class="btn btn-primary col-3"}
+[Request Additional Resources](https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link){: class="btn btn-primary col-3"}
+[Request Software Installation](https://docs.google.com/forms/d/e/1FAIpQLScpiyqERdxw6gMxjlq_CkiI3qvJ60YaeWHKTJChMjcnv8aBBA/viewform?usp=sf_link){: class="btn btn-primary col-3"}
+
+[Request Help](https://docs.google.com/forms/d/e/1FAIpQLSere1PvgPEuJkpvQUk1-11C88IAeQNQKEUFc-Qgbn5GgKK2jw/viewform?usp=sf_link){: class="btn btn-primary col-3"}
+[Report Project Outcome](https://docs.google.com/forms/d/e/1FAIpQLSdO1w-RY8OexUBwJx8BHNMwSRNPA3_-5r6pefdQW8ancbKZqw/viewform?usp=sf_link){: class="btn btn-primary col-3"}
+[Available Tools](/ables/resources/#shared-repository-of-tools-and-software){: class="btn btn-primary col-3"}
 
 ## About ABLeS
 
