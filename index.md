@@ -32,3 +32,18 @@ ABLeS is supported by resources at the [National Computational Infrastructure (N
 More details are available in the ABLeS publication:
 
 > **Manos, Steven, Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, & Francis, Rhys.** (2022). *Building community data assets for life sciences through ABLeS - the Australian BioCommons Leadership Share (1.0).* Zenodo. [https://doi.org/10.5281/zenodo.6342352](https://doi.org/10.5281/zenodo.6342352)
+
+<br/><br/>
+<p style="text-align: center;">
+<strong><em>ABLeS is co-funded by <a href="https://bioplatforms.com/biocommons/">Bioplatforms Australia (BPA)</a>, <a href="https://nci.org.au/">the National Computational Infrastructure (NCI)</a> and <a href="https://pawsey.org.au/">Pawsey Supercomputing Research Centre</a>.
+</em></strong>
+</p>
+
+
+<div class="text-center">
+  <img src="images/bioplatforms-audtralia-logo.png" class="rounded col-3" alt="bioplatforms australia" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/NCI+Australia+logo+black+PNG+transparent.png" class="rounded col-3" alt="bioplatforms australia" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/pawsey-logo-beige.png" class="rounded col-3" alt="bioplatforms australia" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
+</div>
+
+
