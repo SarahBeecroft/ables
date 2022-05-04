@@ -42,8 +42,8 @@ More details are available in the ABLeS publication:
 
 <div class="text-center">
   <img src="images/bioplatforms-audtralia-logo.png" class="rounded col-3" alt="bioplatforms australia" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
-  <img src="images/NCI+Australia+logo+black+PNG+transparent.png" class="rounded col-3" alt="bioplatforms australia" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
-  <img src="images/pawsey-logo-beige.png" class="rounded col-3" alt="bioplatforms australia" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/NCI+Australia+logo+black+PNG+transparent.png" class="rounded col-3" alt=" National Computational Infrastructure (NCI)" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/pawsey-logo-beige.png" class="rounded col-3" alt="Pawsey Supercomputing Centre" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
 </div>
 
 
