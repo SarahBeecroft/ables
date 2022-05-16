@@ -8,6 +8,8 @@ subitems:
     url: /resources
   - title: Community projects
     url: /communities
+  - title: if89 Tools and workflows repository
+      url: /if89
   - title: Acknowledgements and authorship
     url: /acknowledgements
   - title: Help and contact details
