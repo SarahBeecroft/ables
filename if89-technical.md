@@ -1,6 +1,5 @@
 ---
 title: ABLeS - Application Installation Guidelines
-toc: true
 ---
 
 # Introduction
