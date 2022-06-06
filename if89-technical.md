@@ -70,7 +70,7 @@ The procedure consists of three main stages:
 ```
     mkdir $HOME/$USER
     cd $HOME/$USER
-    git clone https://git.nci.org.au/dsr900/ables-software-installations.git`
+    git clone https://git.nci.org.au/dsr900/ables-software-installations.git
 ```
 
 2. Make sure that the local repository is up to date before starting work on any new package. A branch must be created from the latest version of the ‘main’ branch of the repository. Change `APP_NAME` and `APP_VERSION` according to the software you are installing.
