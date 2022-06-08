@@ -29,7 +29,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 |----------------------------------------------------------------------|:----------------------------:|
 | Meeting with communities to discuss outputs of the previous quarter. | *23<sup>rd</sup> June  2022* |
 | 100 KSUs will be added to each active ABLeS project.                 | *30<sup>th</sup> June  2022* |
-| ABLeS team provides feedback on plans.                               |  *7<sup>th</sup> July 2022*  |
+
 
 
 ### Quarter 4, October, November, and December 2022
@@ -38,7 +38,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 |-----------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------:|
 | Meeting with communities to discuss outputs of the previous quarter.                                                                    | *22<sup>nd</sup> September 2022* |
 | 100 KSUs will be added to each active ABLeS project. |       *29<sup>th</sup> September 2022*       |
-| ABLeS team provides feedback on plans.                                                                                                  |        *6<sup>th</sup> October 2022*         |
+
 
 ### Quarter 1, January, February, and March 2023
 
@@ -46,7 +46,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 |-----------------------------------------------------------------------------------------------------------------------------------------|:------------------------------:|
 | Meeting with communities to discuss outputs of the previous quarter.                                                                    |      *8<sup>th</sup> December 2022*       |
 | 100 KSUs will be added to each active ABLeS project. |      *15<sup>th</sup> December2022*       |
-| ABLeS team provides feedback on plans.                                                                                                  |       *7<sup>th</sup> January 2023*       |
+
 
 ### Quarter 2, April, May and June 2023
 
@@ -55,7 +55,7 @@ If you are new to ABLeS program, please follow the diagram below in order to sta
 |-----------------------------------------------------------------------------------------------------------------------------------------|:----------------------------:|
 | Meeting with communities to discuss outputs of the previous quarter.                                                                    | *22<sup>nd</sup> March 2023* |
 | 100 KSUs will be added to each active ABLeS project. |       *29<sup>th</sup> March 2023*        |
-| ABLeS team provides feedback on plans.                                                                                                  |       *6<sup>th</sup> April 2023*       |
+
 
 
 
