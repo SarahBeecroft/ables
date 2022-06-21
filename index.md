@@ -35,15 +35,16 @@ More details are available in the ABLeS publication:
 
 <br/><br/>
 <p style="text-align: center;">
-<strong><em>ABLeS is co-funded by <a href="https://bioplatforms.com/biocommons/">Bioplatforms Australia (BPA)</a>, <a href="https://nci.org.au/">the National Computational Infrastructure (NCI)</a> and <a href="https://pawsey.org.au/">Pawsey Supercomputing Research Centre</a>.
+<strong><em>ABLeS is co-funded by <a href="https://bioplatforms.com/biocommons/">Bioplatforms Australia</a> (enabled by <a href="https://www.dese.gov.au/ncris">NCRIS</a>), <a href="https://nci.org.au/">the National Computational Infrastructure (NCI)</a> and <a href="https://pawsey.org.au/">Pawsey Supercomputing Research Centre</a>.
 </em></strong>
 </p>
 
 
 <div class="text-center">
-  <img src="images/bioplatforms-audtralia-logo.png" class="rounded col-3" alt="bioplatforms australia" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
-  <img src="images/NCI+Australia+logo+black+PNG+transparent.png" class="rounded col-3" alt=" National Computational Infrastructure (NCI)" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
-  <img src="images/pawsey-logo-beige.png" class="rounded col-3" alt="Pawsey Supercomputing Centre" style="width:250px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/bioplatforms-audtralia-logo.png" class="rounded col-4" alt="bioplatforms australia" style="width:225px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/ncris-logo1.png" class="rounded col-4" alt="NCRIS" style="width:225px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/NCI+Australia+logo+black+PNG+transparent.png" class="rounded col-4" alt=" National Computational Infrastructure (NCI)" style="width:225px; height:100px; padding: 10px 10px 10px 10px;">
+  <img src="images/pawsey-logo-beige.png" class="rounded col-4" alt="Pawsey Supercomputing Centre" style="width:225px; height:100px; padding: 10px 10px 10px 10px;">
 </div>
 
 
