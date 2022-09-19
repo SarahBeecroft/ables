@@ -18,6 +18,18 @@ For each software, an installation script should be created to install the softw
 This helps to automate the process when a reinstallation is required. 
 This script should be added to the repository of all scripts and patches, which is available at: [https://git.nci.org.au/dsr900/ables-software-installations](https://git.nci.org.au/dsr900/ables-software-installations). This script repository follows the same file structure as the NCI `/apps` directory which is `/<package>/<version>`.
 
+# Prerequisites
+In order to contribute to `if89`, you need to satisfy the following conditions:
+
+1. **Obtain access to the `if89` project**: Everyone can request access to `if89` if they have a user account on GADI. Simply, request to join at this [link](https://my.nci.org.au/mancini/project/if89).
+2. **Request to join the writer group under `if89`**: request to join at this [link](https://my.nci.org.au/mancini/project/if89_w)
+3. **Request access to `ables-software-installations` repository**: The repository link is [https://git.nci.org.au/dsr900/ables-software-installations](https://git.nci.org.au/dsr900/ables-software-installations). Access is managed through your Gadi username and password.
+   
+   If you do not have access, please contact one of the following repository maintainers and they will add you:
+      * Ziad Al Bkhetan: <ziad@biocommons.org.au>
+      * Javed Shaikh: <javed.shaikh@anu.edu.au>
+   
+
 # General Guidelines
 
 These are some general guidelines to be aware of before installing any software:
@@ -63,7 +75,7 @@ The procedure consists of three main stages:
    If this is your first time adding to `if89`, you will need to clone the `ables-software-installations` repository from [https://git.nci.org.au/dsr900/ables-software-installations](https://git.nci.org.au/dsr900/ables-software-installations). Access is managed through your Gadi username and password.
    If you do not have access, please contact one of the following repository maintainers and they will add you:
       * Ziad Al Bkhetan: <ziad@biocommons.org.au>
-      * Dale Roberts: <ds.roberts@anu.edu.au>
+      * Javed Shaikh: <javed.shaikh@anu.edu.au>
    
    There is no specific location to clone the repo into, however, we recommend using the home directory ($HOME). You can create a directory with your username there and use it for your testing. You can use the following commands for this purpose:
  
