@@ -2,7 +2,7 @@
 title: ABLeS
 topnav_title: ABLeS
 description: ABLeS
-remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@custom-main-logo
+remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@1.20.2
 permalink: pretty
 
 theme_variables:
